@@ -1,12 +1,12 @@
 # Days Countdown ⏳
 
 A simple GNOME Shell extension that shows days left to your chosen date in the top bar.
+![demo](image.png)
 
 ## Features
 - Minimal and clean
 - Days remaining display
 - Easy to set target date
-
 ## Supported GNOME Versions
 45, 46, 47, 48, 49
 
