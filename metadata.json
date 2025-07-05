@@ -1,0 +1,14 @@
+{
+  "uuid": "countdown-gnome-extension@paudelsamir.github.io",
+  "name": "Days Countdown - Achieve Goals in Time",
+  "description": "Keep your ambitions on track! Displays a stylish countdown of days remaining to your chosen date, right in the GNOME top bar. Perfect for deadlines, events, and personal milestones.",
+  "version": 2.0,
+  "shell-version": ["45", "46", "47", "48", "49"],
+  "settings-schema": "org.gnome.shell.extensions.countdown",
+  "url": "https://github.com/paudelsamir/countdown-gnome-extension",
+  "gettext-domain": "countdown-gnome-extension",
+  "author": "Samir Paudel",
+  "homepage": "https://github.com/paudelsamir/countdown-gnome-extension",
+  "icon": "countdown-symbolic",
+  "keywords": ["countdown", "days", "goals", "productivity", "reminder", "event", "timer"]
+}

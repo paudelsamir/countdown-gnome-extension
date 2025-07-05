@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.countdown" path="/org/gnome/shell/extensions/countdown/">
+    <key name="year" type="i">
+      <default>2025</default>
+    </key>
+    <key name="month" type="i">
+      <default>12</default>
+    </key>
+    <key name="day" type="i">
+      <default>31</default>
+    </key>
+  </schema>
+</schemalist>
+<!-- This schema defines the configuration for the countdown extension, allowing users to set a specific date for the countdown. -->
